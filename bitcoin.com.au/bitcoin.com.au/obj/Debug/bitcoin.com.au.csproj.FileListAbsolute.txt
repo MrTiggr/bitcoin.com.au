@@ -1,0 +1,7 @@
+D:\Cameron Garnham\Documents\Visual Studio 2010\Projects\bitcoin.com.au\bitcoin.com.au\bitcoin.com.au\bin\bitcoin.com.au.dll
+D:\Cameron Garnham\Documents\Visual Studio 2010\Projects\bitcoin.com.au\bitcoin.com.au\bitcoin.com.au\bin\bitcoin.com.au.pdb
+D:\Cameron Garnham\Documents\Visual Studio 2010\Projects\bitcoin.com.au\bitcoin.com.au\bitcoin.com.au\bin\EntityFramework.dll
+D:\Cameron Garnham\Documents\Visual Studio 2010\Projects\bitcoin.com.au\bitcoin.com.au\bitcoin.com.au\bin\EntityFramework.xml
+D:\Cameron Garnham\Documents\Visual Studio 2010\Projects\bitcoin.com.au\bitcoin.com.au\bitcoin.com.au\obj\Debug\ResolveAssemblyReference.cache
+D:\Cameron Garnham\Documents\Visual Studio 2010\Projects\bitcoin.com.au\bitcoin.com.au\bitcoin.com.au\obj\Debug\bitcoin.com.au.dll
+D:\Cameron Garnham\Documents\Visual Studio 2010\Projects\bitcoin.com.au\bitcoin.com.au\bitcoin.com.au\obj\Debug\bitcoin.com.au.pdb
