@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
-  <publishProfile publishUrl="D:\Cameron Garnham\Documents\Visual Studio 2010\Projects\bitcoin.com.au\publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+  <publishProfile publishUrl="D:\Cameron Garnham\Documents\websites\bitcoin.com.au\publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
     <file relUrl="Scripts/jquery.validate.unobtrusive.js" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Content/themes/base/jquery.ui.resizable.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Account/Register.cshtml" publishTime="07/05/2011 00:19:52" />
@@ -15,9 +15,11 @@
     <file relUrl="Web.config" publishTime="07/09/2011 16:18:46" />
     <file relUrl="Content/themes/base/images/ui-icons_cd0a0a_256x240.png" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="07/05/2011 00:19:52" />
-    <file relUrl="Scripts/jquery-ui-1.8.11.js" publishTime="07/05/2011 00:19:54" />
+    <file relUrl="Content/themes/base/jquery.ui.theme.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Content/bitcoinaus_small.png" publishTime="07/09/2011 15:11:17" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="07/05/2011 00:19:55" />
     <file relUrl="Global.asax" publishTime="07/05/2011 00:19:52" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Content/themes/base/images/ui-icons_2e83ff_256x240.png" publishTime="07/05/2011 00:19:55" />
     <file relUrl="bin/bitcoin.com.au.dll" publishTime="07/09/2011 16:19:48" />
     <file relUrl="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" publishTime="07/05/2011 00:19:55" />
@@ -25,16 +27,15 @@
     <file relUrl="Scripts/jquery.unobtrusive-ajax.min.js" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Scripts/jquery-ui-1.8.11.min.js" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Shared/_LogOnPartial.cshtml" publishTime="07/05/2011 00:19:52" />
-    <file relUrl="Content/themes/base/jquery.ui.dialog.css" publishTime="07/05/2011 00:19:54" />
-    <file relUrl="Views/Shared/_Footer.cshtml" publishTime="07/09/2011 15:19:02" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" publishTime="07/05/2011 00:19:55" />
+    <file relUrl="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" publishTime="07/05/2011 00:19:55" />
     <file relUrl="Scripts/jquery-1.5.1.js" publishTime="07/05/2011 00:19:53" />
     <file relUrl="Content/themes/base/jquery.ui.core.css" publishTime="07/05/2011 00:19:54" />
-    <file relUrl="Scripts/modernizr-1.7.min.js" publishTime="07/05/2011 00:19:56" />
     <file relUrl="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png" publishTime="07/05/2011 00:19:55" />
+    <file relUrl="Scripts/jquery.validate.unobtrusive.min.js" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Content/themes/base/jquery.ui.base.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Shared/_RightAside.cshtml" publishTime="07/09/2011 15:46:04" />
     <file relUrl="Content/themes/base/jquery.ui.datepicker.css" publishTime="07/05/2011 00:19:54" />
-    <file relUrl="Views/Home/Index.cshtml" publishTime="07/09/2011 16:21:50" />
     <file relUrl="Views/Nav/Menu.cshtml" publishTime="07/09/2011 15:59:11" />
     <file relUrl="Content/themes/base/jquery.ui.selectable.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Account/_LeftAside.cshtml" publishTime="07/09/2011 15:52:59" />
@@ -44,28 +45,27 @@
     <file relUrl="Content/NewBasic.css" publishTime="07/09/2011 15:48:42" />
     <file relUrl="packages.config" publishTime="07/05/2011 00:19:56" />
     <file relUrl="Views/Shared/_OtherLinks.cshtml" publishTime="07/09/2011 15:59:42" />
-    <file relUrl="Content/themes/base/images/ui-icons_888888_256x240.png" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Shared/_LeftAside.cshtml" publishTime="07/09/2011 15:50:22" />
     <file relUrl="Views/Home/About.cshtml" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Views/Account/ChangePasswordSuccess.cshtml" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Views/Shared/Error.cshtml" publishTime="07/05/2011 00:19:52" />
-    <file relUrl="Content/themes/base/images/ui-icons_454545_256x240.png" publishTime="07/05/2011 00:19:54" />
+    <file relUrl="Views/Shared/_Footer.cshtml" publishTime="07/09/2011 17:44:03" />
+    <file relUrl="Scripts/jquery.unobtrusive-ajax.js" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Scripts/jquery.validate.min.js" publishTime="07/05/2011 00:19:53" />
     <file relUrl="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" publishTime="07/05/2011 00:19:55" />
-    <file relUrl="Content/themes/base/jquery.ui.theme.css" publishTime="07/05/2011 00:19:54" />
+    <file relUrl="Content/themes/base/jquery.ui.dialog.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Account/ChangePassword.cshtml" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="07/05/2011 00:19:53" />
     <file relUrl="Scripts/jquery-1.5.1.min.js" publishTime="07/05/2011 00:19:53" />
     <file relUrl="Views/Shared/_Layout.cshtml" publishTime="07/09/2011 15:59:42" />
-    <file relUrl="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" publishTime="07/05/2011 00:19:55" />
     <file relUrl="Views/Web.config" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Content/Site.css" publishTime="07/09/2011 15:07:11" />
-    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="07/05/2011 00:19:52" />
-    <file relUrl="bin/EntityFramework.dll" publishTime="07/05/2011 00:19:55" />
+    <file relUrl="Scripts/jquery-ui-1.8.11.js" publishTime="07/05/2011 00:19:54" />
+    <file relUrl="Content/themes/base/images/ui-icons_888888_256x240.png" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/_ViewStart.cshtml" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Scripts/modernizr-1.7.js" publishTime="07/05/2011 00:19:56" />
     <file relUrl="Views/Home/_OtherLinks.cshtml" publishTime="07/09/2011 15:59:11" />
-    <file relUrl="Scripts/jquery.unobtrusive-ajax.js" publishTime="07/05/2011 00:19:52" />
+    <file relUrl="Scripts/modernizr-1.7.min.js" publishTime="07/05/2011 00:19:56" />
     <file relUrl="Content/themes/base/jquery.ui.all.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Scripts/jquery-1.5.1-vsdoc.js" publishTime="07/05/2011 00:19:53" />
@@ -73,9 +73,9 @@
     <file relUrl="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" publishTime="07/05/2011 00:19:55" />
     <file relUrl="Scripts/jquery.validate.js" publishTime="07/05/2011 00:19:53" />
     <file relUrl="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" publishTime="07/05/2011 00:19:55" />
-    <file relUrl="Scripts/jquery.validate.unobtrusive.min.js" publishTime="07/05/2011 00:19:52" />
+    <file relUrl="Content/themes/base/images/ui-icons_454545_256x240.png" publishTime="07/05/2011 00:19:54" />
+    <file relUrl="Views/Home/Index.cshtml" publishTime="07/09/2011 16:21:50" />
     <file relUrl="Content/themes/base/jquery.ui.tabs.css" publishTime="07/05/2011 00:19:54" />
-    <file relUrl="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" publishTime="07/05/2011 00:19:55" />
     <file relUrl="Content/themes/base/jquery.ui.autocomplete.css" publishTime="07/05/2011 00:19:54" />
   </publishProfile>
 </publishData>
