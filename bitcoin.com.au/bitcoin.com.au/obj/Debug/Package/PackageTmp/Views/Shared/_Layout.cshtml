@@ -15,13 +15,13 @@
 <body>
     <div class="page">
         <header>
-            <a href="#">
+            <a href="@Url.Action("Index", "Home")">
                 <img src="/Content/bitcoinaus_small.png" alt="Aus Bitcoin Logo" name="TheLogo" width="180"
                     height="90" id="Bitcoin Australia" style="background: #C6D580; display: block;" /></a>
         </header>
         <div class="leftbar">
             <nav>
-                <ul id="menu">
+                <ul id="menu">  
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     @{Html.RenderPartial("_OtherLinks");}
