@@ -8,6 +8,7 @@ namespace bitcoin.com.au.Controllers
 {
     public class HomeController : Controller
     {
+
         public ActionResult Index()
         {
             ViewBag.Message = "Welcome to the Bitcoin Australia Site";
