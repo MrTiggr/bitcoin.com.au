@@ -5,7 +5,7 @@
     <file relUrl="Content/themes/base/jquery.ui.resizable.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Account/Register.cshtml" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" publishTime="07/05/2011 00:19:55" />
-    <file relUrl="bin/bitcoin.com.au.pdb" publishTime="07/15/2011 15:34:01" />
+    <file relUrl="bin/bitcoin.com.au.pdb" publishTime="07/15/2011 15:44:25" />
     <file relUrl="Scripts/MicrosoftAjax.js" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Content/themes/base/jquery.ui.accordion.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Account/LogOn.cshtml" publishTime="07/05/2011 00:19:52" />
@@ -21,7 +21,7 @@
     <file relUrl="Global.asax" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="07/05/2011 00:19:52" />
     <file relUrl="Content/themes/base/images/ui-icons_2e83ff_256x240.png" publishTime="07/05/2011 00:19:55" />
-    <file relUrl="bin/bitcoin.com.au.dll" publishTime="07/15/2011 15:34:01" />
+    <file relUrl="bin/bitcoin.com.au.dll" publishTime="07/15/2011 15:44:25" />
     <file relUrl="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" publishTime="07/05/2011 00:19:55" />
     <file relUrl="Content/themes/base/jquery.ui.slider.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="Views/Home/CA.cshtml" publishTime="07/15/2011 15:34:00" />
@@ -39,6 +39,7 @@
     <file relUrl="Content/themes/base/jquery.ui.datepicker.css" publishTime="07/05/2011 00:19:54" />
     <file relUrl="favicon.png" publishTime="07/10/2011 17:32:26" />
     <file relUrl="Content/themes/base/jquery.ui.selectable.css" publishTime="07/05/2011 00:19:54" />
+    <file relUrl="bin/Content/bitcoin_australia_ca_root.crt" publishTime="07/15/2011 04:22:51" />
     <file relUrl="Views/Account/_LeftAside.cshtml" publishTime="07/12/2011 23:11:04" />
     <file relUrl="Views/Home/_LeftAside.cshtml" publishTime="07/10/2011 16:24:02" />
     <file relUrl="Content/themes/base/images/ui-icons_222222_256x240.png" publishTime="07/05/2011 00:19:55" />

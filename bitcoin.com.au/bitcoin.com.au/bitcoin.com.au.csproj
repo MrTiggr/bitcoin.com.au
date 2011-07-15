@@ -178,7 +178,9 @@
     <Content Include="Views\Shared\_OtherLinks.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Content\bitcoin_australia_ca_root.crt" />
+    <None Include="Content\bitcoin_australia_ca_root.crt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <Content Include="Views\Home\CA.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
