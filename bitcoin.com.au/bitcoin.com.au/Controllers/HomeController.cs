@@ -20,5 +20,10 @@ namespace bitcoin.com.au.Controllers
         {
             return View();
         }
+
+        public ActionResult CA()
+        {
+            return View();
+        }
     }
 }
