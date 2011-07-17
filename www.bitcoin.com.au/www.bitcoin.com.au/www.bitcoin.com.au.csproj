@@ -178,13 +178,13 @@
     <Content Include="Views\Home\CA.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\bauca.crt" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Views\Guides\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Guides\Certificate_Authority.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\ba_cacert.cer" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
