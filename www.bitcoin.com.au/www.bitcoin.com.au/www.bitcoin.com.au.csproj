@@ -62,8 +62,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\GuidesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\NavController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -154,9 +154,6 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Nav\Menu.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Views\Account\_LeftAside.cshtml" />
   </ItemGroup>
   <ItemGroup>
@@ -181,7 +178,13 @@
     <Content Include="Views\Home\CA.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Content\bauca.crt" />
+    <Content Include="Content\bauca.crt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Guides\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Guides\Certificate_Authority.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

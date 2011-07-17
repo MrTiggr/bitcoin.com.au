@@ -6,12 +6,18 @@ using System.Web.Mvc;
 
 namespace www.bitcoin.com.au.Controllers
 {
-    public class NavController : Controller
+    public class GuidesController : Controller
     {
         //
-        // GET: /Nav/
+        // GET: /Guides/
 
-        public ActionResult Menu()
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+
+        public ActionResult Certificate_Authority()
         {
             return View();
         }
